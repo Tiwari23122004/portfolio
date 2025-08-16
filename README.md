@@ -2,8 +2,8 @@
 
 Welcome to my personal portfolio website!  
 It showcases my skills, projects, and contact details in a clean, responsive design.
+<img src="shreya.jpg" width="300"/>
 
-![Portfolio Screenshot](assets/shreya.jpg)
 
 ---
 
